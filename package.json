@@ -1,22 +1,14 @@
 {
-  "name": "@alheimsins/b5-johnson-120-ipip-neo-pi-r",
-  "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
+  "name": "@szegerege12/b5-johnson-120-ipip-neo-pi-r-pl",
+  "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items with fixed polish translations",
   "version": "6.0.6",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "author": {
-    "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
-  },
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
   "contributors": [
-    {
-      "name": "Jonas Enge",
-      "email": "jonas.enge@gmail.com",
-      "url": "https://github.com/maccyber"
-    }
+    "Jonas Enge <jonas.enge@gmail.com> (https://github.com/maccyber)"
   ],
   "main": "index.js",
   "engines": {
@@ -27,12 +19,8 @@
     "index.js"
   ],
   "scripts": {
-    "test": "standard && npm audit && ava",
-    "test-offline": "standard && ava",
-    "coverage": "nyc ava",
-    "standard-fix": "standard --fix",
-    "refresh": "rm -rf node_modules && rm package-lock.json && npm install",
-    "prepare": "husky install"
+    "test": "npm audit",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
     "bigfive",
@@ -48,12 +36,12 @@
     "url": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/issues"
   },
   "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
-  "devDependencies": {
-    "ava": "5.3.1",
-    "nyc": "15.1.0",
-    "standard": "17.1.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "knuth-shuffle": "1.0.8"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
   }
 }
