@@ -1,7 +1,7 @@
 {
   "name": "@szegerege12/b5-johnson-120-ipip-neo-pi-r-pl",
   "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items with fixed polish translations",
-  "version": "6.0.6",
+  "version": "6.0.7",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
