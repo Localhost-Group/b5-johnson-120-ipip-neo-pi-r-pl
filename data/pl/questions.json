@@ -1,7 +1,7 @@
 [
   {
     "id": "43c98ce8-a07a-4dc2-80f6-c1b2a2485f06",
-    "text": "Często się martwię",
+    "text": "Martwię się różnymi sprawami",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -29,14 +29,14 @@
   },
   {
     "id": "c7f53c3c-2e77-432f-bb71-7470b67d3aa9",
-    "text": "Skutecznie wykonuję zadania",
+    "text": "Skutecznie wykonuję zaplanowane zadania",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "48ad12ce-470e-4339-90ac-ea8c43a0103e",
-    "text": "Łatwo się złoszczę",
+    "text": "Łatwo się denerwuję",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -78,7 +78,7 @@
   },
   {
     "id": "8af754f2-68e9-48f3-8c5d-2e6633d4472c",
-    "text": "Podejmuję decyzje, czasem też za innych",
+    "text": "Przejmuję inicjatywę i odpowiedzialność.",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
@@ -141,7 +141,7 @@
   },
   {
     "id": "481efd08-c810-43b1-a952-f8ac9052f96b",
-    "text": "Bywam uzależniony",
+    "text": "Łatwo się uzależniam.",
     "keyed": "plus",
     "domain": "N",
     "facet": 5
@@ -225,7 +225,7 @@
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Lubię fantazyjne ucieczki od codzienności",
+    "text": "Dużo fantazjuję, także w ciągu dnia.",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
