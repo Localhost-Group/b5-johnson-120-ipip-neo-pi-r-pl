@@ -29,14 +29,14 @@
   },
   {
     "id": "c7f53c3c-2e77-432f-bb71-7470b67d3aa9",
-    "text": "Completo las tareas correctamente",
+    "text": "Compleeto las tareas correctamente",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "48ad12ce-470e-4339-90ac-ea8c43a0103e",
-    "text": "Suelo enojarme fácilmente",
+    "text": "Suelo enfadarme fácilmente",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -57,14 +57,14 @@
   },
   {
     "id": "0cf79e27-e702-45c2-9471-04ac96b58e0e",
-    "text": "Colaboro con otros solo si obtengo algún beneficio propio",
+    "text": "Colaboro con otros si obtengo algún beneficio propio",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "cda1ca17-b599-4561-a6cd-ff9d36062d27",
-    "text": "Me gusta mantener las cosas en orden",
+    "text": "Me gusta mantener las cosas en orden ",
     "keyed": "plus",
     "domain": "C",
     "facet": 2
@@ -92,7 +92,7 @@
   },
   {
     "id": "ccf3a5c8-fb50-4bd4-8e7a-22af3d657279",
-    "text": "Me siento a gusto ayudando a los demás",
+    "text": "Me siendo a gusto ayudando a los demás",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
@@ -155,7 +155,7 @@
   },
   {
     "id": "e1e804c7-4a1d-498f-8610-f95147af9d1d",
-    "text": "Me gusta mucho leer",
+    "text": "Me gusta mucho leer contenido difícil",
     "keyed": "plus",
     "domain": "O",
     "facet": 5
@@ -197,14 +197,14 @@
   },
   {
     "id": "fd50e1ca-d9e0-4037-a7a1-a191d4db2d96",
-    "text": "Me compadezco por la gente sin hogar",
+    "text": "Me compadezco de la gente sin hogar",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Hago las cosas sin razonar mucho sobre ellas",
+    "text": "Hago las cosas sin pensar",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -218,7 +218,7 @@
   },
   {
     "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
-    "text": "Me siento cómodo con la gente",
+    "text": "Me siendo cómodo con gente",
     "keyed": "plus",
     "domain": "E",
     "facet": 1
@@ -253,7 +253,7 @@
   },
   {
     "id": "28ab59a0-e7cd-4fce-94e3-bba2ecc023b6",
-    "text": "Me gusta hablar con muchas personas en las fiestas",
+    "text": "Me gusta hablar con muchas peronas en las fiestas",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
@@ -323,14 +323,14 @@
   },
   {
     "id": "d07b6c67-0d02-4948-a997-bb84ac234cd8",
-    "text": "Creo que soy una persona activa y vigorosa",
+    "text": "Soy una persona activa y vigorosa ",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
   },
   {
     "id": "33b81fd0-7e32-4cd8-a13a-d5f5f754f998",
-    "text": "Prefiero quedarme cosas que conozco",
+    "text": "Prefiero permanecer con cosas que conozco",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -386,14 +386,14 @@
   },
   {
     "id": "13c58810-3864-42ba-aa87-d4166f858756",
-    "text": "Me abrumo fácilmente de las cosas que suceden alrededor",
+    "text": "Me abrumo fácilmente por los eventos que me suceden",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
   },
   {
     "id": "961376e0-16a1-4c14-b059-789e63d11b63",
-    "text": "Pienso que soy una persona muy divertida",
+    "text": "Me suelo divertir",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
@@ -414,7 +414,7 @@
   },
   {
     "id": "956f3e17-ff17-4af5-a52f-9222b8968106",
-    "text": "Suelo tomar decisiones precipitadas",
+    "text": "Suelo tomar decisiones precipatadas",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -435,7 +435,7 @@
   },
   {
     "id": "23a1034f-fab7-4887-a66e-5ef4eaafb25e",
-    "text": "Soy una persona que a veces sueña despierta",
+    "text": "Me gusta soñar despierto/a",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -484,14 +484,14 @@
   },
   {
     "id": "f4891687-0ff0-47af-a4f6-d1202c8f6676",
-    "text": "Mi habitación es muy desordenada",
+    "text": "Dejo mi habitación muy desordenada",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
   },
   {
     "id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
-    "text": "A menudo me siento bajoneado",
+    "text": "A menudo me siento desanimado",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
@@ -526,7 +526,7 @@
   },
   {
     "id": "20062533-a33d-4c1e-9cd9-bff868015b3f",
-    "text": "Sólo me siento cómodo en compañía de amigos",
+    "text": "Solo me siento cómodo en compañía de amigos",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
@@ -540,7 +540,7 @@
   },
   {
     "id": "0d2e65ab-95d9-482f-beb4-3239a3a4944a",
-    "text": "No me atraen situaciones en constante cambio",
+    "text": "No me gustan los cambios",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -589,7 +589,7 @@
   },
   {
     "id": "c7db0ed8-df7d-49bf-942f-59e46ef743c4",
-    "text": "No hago mucho en mi tiempo libre",
+    "text": "Desaprovecho mi tiempo",
     "keyed": "minus",
     "domain": "C",
     "facet": 5
@@ -610,7 +610,7 @@
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "Tiendo a votar por los candidatos políticos conservativos",
+    "text": "Tiendo a votar por candidatos políticos conservadores",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
@@ -687,7 +687,7 @@
   },
   {
     "id": "11b20adb-abed-4363-894c-3dd823ae0540",
-    "text": "Sería capaz de sabotear los planes de otros",
+    "text": "Saboteo los planes de otros",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -708,14 +708,14 @@
   },
   {
     "id": "8791f37b-686f-47c3-9db7-74c009951321",
-    "text": "Espero que alguien más lleve la batuta en un grupo",
+    "text": "Espero a que alguien lleve la batuta",
     "keyed": "minus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d",
-    "text": "No comprendo a las personas que se emocionan fácilmente",
+    "text": "No comprendo a las personas que se emocinan fácilmente",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
@@ -757,13 +757,13 @@
   },
   {
     "id": "17910a55-a64a-4ed0-8b46-293e2fa2fe03",
-    "text": "No suelo apoyar a los otros",
+    "text": "No suelo apoyar a otros",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
   },
   {
-    "id": "3890bb43-2695-4b8d-b289-ee10d11cc884",
+    "id": "Pongo poco tiempo y esfuerzo en mi trabajo",
     "text": "Pongo poco tiempo y esfuerzo en mi trabajo",
     "keyed": "minus",
     "domain": "C",
@@ -778,7 +778,7 @@
   },
   {
     "id": "10f90fa9-649c-4631-ac4c-3dd3f751597d",
-    "text": "Creo que soy una persona activa y vigorosa",
+    "text": "Actúo sin control y alocadamente",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -792,7 +792,7 @@
   },
   {
     "id": "80c1d149-7050-481a-9953-aefb441642e7",
-    "text": "Me jacto de mis virtudes",
+    "text": "Alardeo de mis virtudes",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -813,7 +813,7 @@
   },
   {
     "id": "e7b31bdc-5f6b-40ec-ba91-f5919b0f170e",
-    "text": "Siempre miro el buen lado de la vida",
+    "text": "Siempre miro el lado bueno de la vida",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
